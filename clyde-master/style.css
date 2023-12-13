@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  body{
+    overflow-x: hidden;
+    background-color: black;
+  }
+  .rr{
+      background-color: black;
+  }
+  .section1{
+      background: url center -138px / 100% 1068px no-repeat, linear-gradient(-45deg, rgb(108, 14, 224) -5%, rgb(240, 55, 166));
+      height: 585px;
+  }
+  .iphone{
+      width: 286px;
+      height: 573px;
+  } 
+  .sec1{
+      position: relative;
+      width: 40%;
+      padding-top: 100px;
+      display: flex;
+  }
+  .pic{
+    position: absolute;
+    margin-left: 30px;
+    height:100px;
+     width:100px;
+  }
